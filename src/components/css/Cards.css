@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap:  wrap;
+    max-width: 40%;
+    max-height: 30%;
+    margin: 2rem;
+}
+.CardBody{
+
+margin: 2rem;
+background-color: lightgray;
+text-align: center;
+color: black;
+font-weight: bold;
+border: 5px solid darkblue;
+}
