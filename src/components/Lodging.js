@@ -1,6 +1,8 @@
 import './css/Lodging.css';
 import Hotel1 from './img/Hotels1.png'
 import Sedona from './img/sedonahotel.png'
+import Coverpicture from './img/Coverpicture.png';
+
 
 
 
@@ -12,6 +14,13 @@ function Lodging() {
         <h1>Lodging</h1>
         <h3>See what the best of Arizona has to offer for your stay!</h3>
       </div>
+      <div className='ImageWrap'>
+          <img src={Coverpicture} alt = "" className='Image'/>
+          <h1 className = 'ImageTxt'> 
+          Arizona offers a wide range of hotels to suit every traveler's needs and budget. Luxury hotels like The Phoenician in Scottsdale and The Arizona Biltmore in Phoenix offer top-notch amenities like spas, golf courses, and fine dining. For a more personalized experience, boutique hotels like The Hotel Congress in Tucson provide unique decor and live music events. Budget-friendly options are available as well, such as basic accommodations with free Wi-Fi and continental breakfast. Many resort hotels take advantage of the state's natural landscapes, offering outdoor activities like hiking and horseback riding. Whether you're visiting for business or pleasure, there's a hotel in Arizona that can cater to your needs.
+          
+          </h1>
+        </div>
       <div className ='Cont'>
       <div className='header'> 
 

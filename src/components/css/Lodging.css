@@ -23,3 +23,17 @@
 
     
   }
+  .Image{
+    position: relative;
+    width: 2000px;
+    height: 500px;
+}
+.ImageTxt{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+}

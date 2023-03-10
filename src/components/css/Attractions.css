@@ -1,18 +1,9 @@
-.main {
-    background-color: lightcyan;
-    text-align: center;
-    color: blue
-}
-.header {
+.Attractionheader {
     background-color: lightcyan;
     text-align: center;
     font-size: 24px;
 
     color: blue;
-}
-.Container{
-    display:flex;
-    align-items: center;
 }
 .ImageWrapCover{
     margin-top: 1rem;
