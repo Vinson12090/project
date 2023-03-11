@@ -22,7 +22,11 @@ function Attractions() {
         <h3>Montezuma Castle National Monument</h3>
       </div>
         <div className="boxes">
+       
         <Card img={MonteMount} title = "Description" description="Montezuma Castle National Monument is a must-visit destination for anyone interested in Native American history and ancient architecture. The cliff dwelling is an impressive structure built into a cliff face in central Arizona by the Sinagua people over 800 years ago. The dwelling consists of five floors and 20 rooms, and it is believed that it housed around 50 people at its peak. The site also features a museum with exhibits that provide insight into the lives of the Sinagua people and their daily routines. Visitors can walk along a self-guided trail to view the ruins from different angles and learn about the history and culture of the site. The monument is easily accessible and can be visited as a day trip from nearby cities like Phoenix or Sedona. Overall, Montezuma Castle National Monument is an incredible piece of ancient architecture that offers a fascinating glimpse into the history of the region's native people." />
+        <div className='Attractionheader'> 
+        <h3>Montezuma Castle National Monument</h3>
+      </div>
         <Card img={GrandCanyon} title = "Description" description="The Grand Canyon National Park is one of the most iconic and breathtaking natural wonders in the world. Carved over millions of years by the Colorado River, the Grand Canyon spans over 277 miles and is up to 18 miles wide in some places. The canyon is an awe-inspiring landscape of colorful rock formations, towering cliffs, and breathtaking vistas that leave visitors awestruck. The park offers a range of hiking trails, campgrounds, and guided tours, allowing visitors to explore the canyon in depth. Some of the most popular attractions within the park include the South Rim, the North Rim, and the Havasu Falls. Whether you're interested in hiking, rafting, or simply taking in the breathtaking views, the Grand Canyon National Park is a must-visit destination for anyone traveling to Arizona." />
 
       
