@@ -1,6 +1,9 @@
 # Members
 Vinson Lin
 # Getting Started with Create React App
+# Notice
+Once you gitclone the project make sure to cd project and then npm install react-router-dom
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
